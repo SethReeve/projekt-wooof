@@ -1,0 +1,60 @@
+/**
+ Aspahagus- #fb069
+ Maastricht blue- #011627
+ Baby Powder- #fdfffc
+ Dark Patel red- # c1311b
+ Toolbox- #7071b2
+**/
+
+/*
+	General
+*/
+
+
+html {
+	background-color: #7071b2;
+}
+
+
+
+/*
+	Image
+*/
+
+#about-doge-wrap img {
+	width: 20%
+
+}
+
+
+
+/***
+	styling
+***/
+
+
+
+/**
+	Main
+**/
+#page-wrapper section  {
+
+	background-color: #7071b2;
+	display: inline-block;
+    width: 100%;
+}
+
+
+
+/**
+	Section 1
+**/
+
+#about-doge-wrap p {
+	float: left;
+
+
+}
+
+
+
